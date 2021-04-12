@@ -81,7 +81,7 @@ elif propert == 'oxygen':
 elif (propert == 'ammonia') or (propert == 'nitrate') or \
      (propert == 'nitrite') or (propert == 'particulateorganicnitrogen'):
      units = '(mgN/L)'
-elif (propert == 'pythoplankton') or (propert == 'zooplankton'):  
+elif (propert == 'phytoplankton') or (propert == 'zooplankton'):  
      units = '(mgC/L)'   
 elif (propert == 'inorganicphosphorus') or (propert == 'particulateorganicphosphorus'):
      units = '(mgP/L)'
