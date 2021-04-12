@@ -1,0 +1,15 @@
+DATE: 2005 06 02           
+SECTION: meridional               
+PROPERTY: temperature        
+LATITUDE: 39.1146 
+LONGITUDE: -7.9316 
+
+
+
+#Sections: map, zonal, meridional. If zonal or meridional, latitude and longitude are required.
+#If maranhão latitude = 39.1146, longitude =-7.9316
+#If montargil latitude = 39.1133, longitude = -8.1261
+#Properties : temperature, oxygen, ammonia, nitrate, nitrite, particulatedorganicnitrogen,pythoplankton,zooplankton,inorganicphosphorus, particulatedorganicphosphorus
+#39.1146
+#-7.9316
+#map
