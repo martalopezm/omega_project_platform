@@ -19,4 +19,25 @@ Quick summary of the script:
 
 HOW TO RUN AS EXAMPLE?
 - Place omega_input.dat file in the same path of the scrip (SCRIPT_bien_mlm.py)
+- Install required python packages
 - Change inside the script the path in line 62 where you will place the WaterProperties.hdf5 file. In addition choose whatever path you want in line 280 
+
+SURFACE MAP: 
+![image](https://user-images.githubusercontent.com/60937576/114426441-fd880a80-9bb1-11eb-908d-daa3f3bf8adf.png)
+
+
+
+MERIDIONAL SECTION (with contour lines)
+![maranhão_meridional](https://user-images.githubusercontent.com/60937576/114425251-ccf3a100-9bb0-11eb-849e-141556df3a82.png)
+
+
+
+MERIDIONAL SECTION (without contour lines)
+![Trasencto_meridional](https://user-images.githubusercontent.com/60937576/114426577-1e506000-9bb2-11eb-975c-1f15b8bb0284.png)
+
+
+
+ZONAL SECTION (changing property to display to oxygen)
+![Transectozonal](https://user-images.githubusercontent.com/60937576/114426704-3d4ef200-9bb2-11eb-83b7-96abdbeef9fe.png)
+
+
