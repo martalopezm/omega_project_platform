@@ -17,7 +17,7 @@ Quick summary of the script:
 - Surface map: make a map of the property projected into a google map layer (folium package) and display as a html
 - Sections: select the transect and show only rows and columns with values, or at least one value (include only nan rows and columns which are between first and last no-nan value).
 
-HOW TO RUN AS EXAMPLE?
+HOW TO RUN AN EXAMPLE?
 - Place omega_input.dat file in the same path of the scrip (SCRIPT_bien_mlm.py)
 - Install required python packages
 - Change inside the script the path in line 62 where you will place the WaterProperties.hdf5 file. In addition choose whatever path you want in line 280 
