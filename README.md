@@ -1,7 +1,7 @@
 # omega_project_platform
 Simple script behind OMEGA platform, for displaying HDF5 results in a map and sections
 
-This python script has been programmed for OMEGA project, which aim is to provide water quality real-time, and forecast, status of two portuguese reservoirs (albufeira de Montargil and albufeira de Maranhão). In this, MOHID Water Modelling System will provide daily results of several properties (as temperature, nitrate or dissolved oxygen). This scripts will serve as intermediate between OMEGA platform users and model results. 
+This python script has been programmed for OMEGA project, which aim is to provide water quality real-time, and forecast, status of two portuguese reservoirs (albufeira de Montargil and albufeira de Maranhão). In this, MOHID Water Modelling System will provide daily results of several properties (as temperature, nitrate or dissolved oxygen). This scripts will serve as intermediate between OMEGA platform users and model results. http://omega.maretec.org/
 
 The user will be able to choose in the platform:
  - DATE
